@@ -6,7 +6,7 @@ import ContactArea from "@/src/components/homes/home-4/contact-area";
 
 import Government from "@/src/components/government/index2";
 import HeaderFour from "@/src/layout/headers/header-4";
-import imgbread from "@/public/images/navbar/comment.png";
+import imgbread from "@/public/images/navbar/Comment.png";
 
 const Comment = () => {
   return (

@@ -5,7 +5,7 @@ import React from "react";
 import AllBranch from "@/src/components/branch/allbranch";
 import Government from "@/src/components/government/index2";
 import HeaderFour from "@/src/layout/headers/header-4";
-import imgbread from "@/public/images/navbar/region.png"
+import imgbread from "@/public/images/navbar/Region.png"
 
 const Branch = () => {
   return (

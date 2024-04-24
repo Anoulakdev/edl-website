@@ -6,7 +6,7 @@ import SCenter from "@/src/components/service-center/scenter";
 
 import Government from "@/src/components/government/index2";
 import HeaderFour from "@/src/layout/headers/header-4";
-import imgbread from "@/public/images/navbar/region.png"
+import imgbread from "@/public/images/navbar/Region.png"
 
 const ServiceCenter = () => {
   return (
